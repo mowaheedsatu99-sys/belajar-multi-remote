@@ -4,3 +4,6 @@ lalu di clone ke local dengan git yang nyambung ke akun remote a ini
 
 
 blah bloh
+
+
+perubahan dari lokal b
